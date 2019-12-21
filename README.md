@@ -1,6 +1,6 @@
-### o
+### srad
 ---
-
+https://srad.jp/
 
 ```
 ```
